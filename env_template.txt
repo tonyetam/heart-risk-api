@@ -12,4 +12,4 @@ TARGET_COL=target
 TEST_SIZE=0.15
 RANDOM_STATE=42
 
-API_URL=http://127.0.0.1:8000/predict-heart-disease
+API_URL=http://127.0.0.1:8000/predict-heart-risk
